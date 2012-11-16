@@ -1,0 +1,10 @@
+{
+    "name"       : "gallery-tres",
+    "displayName": "Gallery: gallery-tres",
+    "description": "*Summary Goes Here*",
+    "author"     : [ "triptych" ],
+
+    "tags": [ "gallery" ],
+
+    "examples": []
+}

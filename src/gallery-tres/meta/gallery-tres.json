@@ -1,0 +1,7 @@
+{
+    "gallery-tres": {
+        "requires": [
+            "yui-base"
+        ]
+    }
+}
